@@ -37,6 +37,7 @@
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
+        <script src='<%= ResolveUrl("~/Scripts/JavaScript.js") %>'</script>
 
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
